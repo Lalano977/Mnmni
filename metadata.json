@@ -1,0 +1,10 @@
+{
+  "name": "مغامرات نمو الفراشة والجرادة - ألعاب تفاعلية للأطفال",
+  "description": "منصة تعليمية تفاعلية تتضمن 20 صفحة لأنشطة دورة حياة الفراشة والجرادة للأطفال مع دعم كامل لوضع عدم الاتصال وربط Google Slides و Google Tasks.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
